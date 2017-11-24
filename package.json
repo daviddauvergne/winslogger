@@ -5,7 +5,7 @@
 	"main": "winslogger.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/daviddauvergne/winsloggger.git"
+		"url": "git+https://github.com/daviddauvergne/winslogger.git"
 	},
 	"author": "David Dauvergne",
 	"license": "MIT",
