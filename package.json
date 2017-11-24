@@ -1,8 +1,8 @@
 {
-	"name": "winsloggger",
+	"name": "winslogger",
 	"version": "1.0.0",
 	"description": "Logger for wins",
-	"main": "winsloggger.js",
+	"main": "winslogger.js",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/daviddauvergne/winsloggger.git"
