@@ -1,10 +1,10 @@
 V1.0.0
 
-# winsloggger (Logger for wins)
+# winslogger (Logger for wins)
 
 ## install
 
-	npm install https://github.com/daviddauvergne/winsloggger.git
+	npm install https://github.com/daviddauvergne/winslogger.git
 
 ## Usage
 
